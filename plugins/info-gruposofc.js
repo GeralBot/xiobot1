@@ -5,7 +5,7 @@ let text = `*𝙷𝙾𝙻𝙰 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 👋🏻, 𝚃𝙴 �
 
 *➤ 𝙶𝚛𝚞𝚙𝚘𝚜 𝚘𝚏𝚒𝚌𝚒𝚊𝚕𝚎𝚜 𝚍𝚎𝚕 𝙱𝚘𝚝:*
 
-*1.-* https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo`.trim()   
+*1.-*https://chat.whatsapp.com/KnQXMl0VGec71K9K42Vaon`.trim()   
 let buttonMessage= {
 'document': { url: `https://github.com/BrunoSobrino/TheMystic-Bot-MD` },
 'mimetype': `application/${document}`,
